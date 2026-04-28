@@ -1,4 +1,4 @@
 myenv
 /myenv/
 .env
-.env.*
+.env.local
